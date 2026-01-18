@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Javier Diaz 👋
+### Técnico Superior en Desarrollo de Software | Backend & Fullstack Developer
 
-<!--
-**JavierDiaz91/JavierDiaz91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especializado en el ecosistema **.NET** y desarrollo de aplicaciones web y móviles. Actualmente me desempeño en soporte funcional mientras desarrollo soluciones técnicas escalables.
 
-Here are some ideas to get you started:
+- 🚀 Actualmente trabajando con: **C#, ASP.NET Core, SQL Server**
+- 📱 Interesado en: **Desarrollo Android y Arquitecturas Limpias**
+- 🎓 Recientemente graduado de la Tecnicatura Superior en Desarrollo de Software (Nov 2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack Tecnológico
+- **Lenguajes:** C#, SQL, JavaScript
+- **Frameworks:** .NET Core, Entity Framework Core, LINQ
+- **Herramientas:** Git, GitHub, SQL Server Management Studio
+
+📫 Cómo contactarme: [diazjavier769@gmail.com](mailto:diazjavier769@gmail.com)
