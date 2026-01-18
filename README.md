@@ -2,7 +2,7 @@
 
 ### Técnico Superior en Desarrollo de Software | Backend & Fullstack Developer
 
-Desarrollador enfocado en el ecosistema **.NET**, con sólida base técnica en C# y SQL Server. Actualmente me desempeño en soporte funcional mientras desarrollo soluciones escalables orientadas a resultados de negocio.
+Enfocado en el desarrollo de aplicaciones **.NET**, con sólida base técnica en C# y SQL Server. Actualmente me desempeño en soporte funcional mientras desarrollo soluciones escalables orientadas a resultados de negocio. Interesado en aprender siempre!
 
 ---
 
