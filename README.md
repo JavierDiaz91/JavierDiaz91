@@ -12,4 +12,6 @@ Conocimientos sólidos **.NET** y desarrollo de aplicaciones web y móviles. Act
 - **Frameworks:** .NET Core, Entity Framework Core, LINQ
 - **Herramientas:** Git, GitHub, SQL Server Management Studio
 
-📫 Cómo contactarme: [diazjavier769@gmail.com](mailto:diazjavier769@gmail.com)
+https://github.com/JavierDiaz91/JavierDiaz91/blob/main/Javier-Diaz-CV.pdf
+📄 **[Descargar mi CV en PDF](https://github.com/JavierDiaz91/JavierDiaz91/blob/main/Javier-Diaz-CV.pdf)**
+
