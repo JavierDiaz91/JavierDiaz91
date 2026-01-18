@@ -32,7 +32,4 @@ Desarrollador enfocado en el ecosistema **.NET**, con sólida base técnica en C
 
 ---
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierDiaz91&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierDiaz91&layout=compact&theme=radical)
 
