@@ -1,7 +1,7 @@
 # ¡Hola! Soy Javier Diaz 👋
 ### Técnico Superior en Desarrollo de Software | Backend & Fullstack Developer
 
-Especializado en el ecosistema **.NET** y desarrollo de aplicaciones web y móviles. Actualmente me desempeño en soporte funcional mientras desarrollo soluciones técnicas escalables.
+Conocimientos sólidos **.NET** y desarrollo de aplicaciones web y móviles. Actualmente me desempeño en soporte funcional mientras desarrollo soluciones técnicas escalables.
 
 - 🚀 Actualmente trabajando con: **C#, ASP.NET Core, SQL Server**
 - 📱 Interesado en: **Desarrollo Android y Arquitecturas Limpias**
