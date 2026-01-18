@@ -1,15 +1,15 @@
-# ¡Hola! Soy Javier Diaz 👋
+# ¡Hola! Soy Javier Díaz 👋
 
 ### Técnico Superior en Desarrollo de Software | Backend & Fullstack Developer
 
-[cite_start]Desarrollador enfocado en el ecosistema **.NET**, con sólida base técnica en C# y SQL Server[cite: 8]. [cite_start]Actualmente me desempeño en soporte funcional mientras desarrollo soluciones escalables orientadas a resultados de negocio[cite: 8, 9].
+Desarrollador enfocado en el ecosistema **.NET**, con sólida base técnica en C# y SQL Server. Actualmente me desempeño en soporte funcional mientras desarrollo soluciones escalables orientadas a resultados de negocio.
 
 ---
 
 ### 🚀 Sobre mí
-- [cite_start]🎓 **Formación:** Recién graduado de la Tecnicatura Superior en Desarrollo de Software (Nov 2024)[cite: 19, 20].
-- [cite_start]💻 **Enfoque actual:** Especializándome en **ASP.NET Core 8** y **Arquitecturas Limpias**[cite: 8, 10, 32].
-- [cite_start]📱 **Intereses:** Desarrollo móvil con Android y optimización de bases de datos[cite: 27].
+- 🎓 **Formación:** Recién graduado de la Tecnicatura Superior en Desarrollo de Software (Nov 2024).
+- 💻 **Enfoque actual:** Especializándome en **ASP.NET Core 8** y **Arquitecturas Limpias**.
+- 📱 **Intereses:** Desarrollo móvil con Android y optimización de bases de datos.
 
 ### 🛠️ Stack Tecnológico
 
@@ -19,15 +19,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- [cite_start]**Backend:** C#, ASP.NET Core, Entity Framework Core, LINQ[cite: 26, 31, 32].
-- [cite_start]**Arquitectura:** MVC, Inyección de Dependencias, Arquitectura de Capas[cite: 33, 34].
-- [cite_start]**Bases de Datos:** SQL Server (T-SQL), Migrations & Scaffolding[cite: 26, 28].
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, LINQ.
+- **Arquitectura:** MVC, Inyección de Dependencias, Arquitectura de Capas.
+- **Bases de Datos:** SQL Server (T-SQL), Migrations & Scaffolding.
 
 ---
 
 ### 📄 Contacto y Recursos
-- [cite_start]📧 **Email:** [diazjavier769@gmail.com](mailto:diazjavier769@gmail.com) [cite: 3]
-- [cite_start]🔗 **LinkedIn:** [Mi Perfil Profesional](https://linkedin.com/in/javier-d%C3%ADaz-225921210/) [cite: 5]
+- 📧 **Email:** [diazjavier769@gmail.com](mailto:diazjavier769@gmail.com)
+- 🔗 **LinkedIn:** [Mi Perfil Profesional](https://linkedin.com/in/javier-d%C3%ADaz-225921210/)
 - 📥 **Curriculum Vitae:** [Descargar CV en PDF](https://github.com/JavierDiaz91/JavierDiaz91/blob/main/Javier-Diaz-CV.pdf)
 
 ---
