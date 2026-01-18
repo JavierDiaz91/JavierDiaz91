@@ -1,4 +1,4 @@
-# ¡Hola! Soy Javier Díaz 👋
+# ¡Hola! Soy Javier Diaz 👋
 
 ### Técnico Superior en Desarrollo de Software | Backend & Fullstack Developer
 
