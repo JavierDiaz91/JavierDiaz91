@@ -27,7 +27,7 @@ Enfocado en el desarrollo de aplicaciones **.NET**, con sólida base técnica en
 
 ### 📄 Contacto y Recursos
 - 📧 **Email:** [diazjavier769@gmail.com](mailto:diazjavier769@gmail.com)
-- 🔗 **LinkedIn:** [Mi Perfil Profesional](https://linkedin.com/in/javier-d%C3%ADaz-225921210/)
+- 🔗 **LinkedIn:** [Mi Perfil Profesional](https://www.linkedin.com/in/javier-diaz-225921210/)
 - 📥 **Curriculum Vitae:** [Descargar CV en PDF](https://github.com/JavierDiaz91/JavierDiaz91/blob/main/Javier-Diaz-CV.pdf)
 
 ---
