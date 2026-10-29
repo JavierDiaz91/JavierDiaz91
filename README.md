@@ -7,7 +7,7 @@ Enfocado en el desarrollo de aplicaciones **.NET**, con sólida base técnica en
 ---
 
 ### 🚀 Sobre mí
-- 🎓 **Formación:** Recién graduado de la Tecnicatura Superior en Desarrollo de Software (Nov 2024).
+- 🎓 **Formación:** Graduado de la Tecnicatura Superior en Desarrollo de Software.
 - 💻 **Enfoque actual:** Especializándome en **ASP.NET Core 8** y **Arquitecturas Limpias**.
 - 📱 **Intereses:** Desarrollo móvil con Android y optimización de bases de datos.
 
